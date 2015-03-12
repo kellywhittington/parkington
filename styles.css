@@ -1,0 +1,28 @@
+	html {
+	background: LightPink;
+	}
+	
+	body {
+	font-size:18px;
+	font-family:'Arial';
+	margin: 0 auto;
+	width: 600px;
+	text-align: justify;
+	
+	}
+	
+	h1 {
+	text-align: center;
+	}
+	h2 {
+	text-align: center;
+	}
+	h1 {
+	color: Green;
+	}
+	img {
+	width: 100%;
+	}
+	p.navigation {
+	text-align: center;
+	}
